@@ -18,17 +18,25 @@ The system performs:
 
 project/
 │
+|
 ├── modules/
+|
 │ ├── scanner.py # Handles Nmap scanning + VirusTotal API
+|
 │ ├── analyser.py # Risk scoring & severity classification
+|
 │ ├── db.py # SQLite database operations
+|
 │
 ├── dashboard/
+|
 │ ├── app.py # Main Streamlit dashboard
 │ 
 │
 ├── cyberscan.db # Database file
+|
 ├── requirements.txt # Dependencies
+|
 └── README.md # Project documentation
 
 
