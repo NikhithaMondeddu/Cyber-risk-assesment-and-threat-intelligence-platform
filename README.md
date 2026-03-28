@@ -140,6 +140,8 @@ The project was developed using Agile:
 Sprint-based development
 Iterative feature integration
 Continuous testing and debugging
+
+
 👤 Team Members
 Nikhitha Mondeddu
 
