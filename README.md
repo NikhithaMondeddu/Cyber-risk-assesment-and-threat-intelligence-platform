@@ -92,9 +92,13 @@ sudo apt install nmap
 Set these in your environment (Colab or local):
 
 VT_API_KEY = "your_api_key"
+
 GMAIL_SENDER = "your_email"
+
 GMAIL_PASSWORD = "app_password"
+
 GMAIL_RECIPIENT = "receiver_email"
+
 ▶️ How to Run
 streamlit run dashboard/app.py
 📊 Dashboard Features
