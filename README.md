@@ -40,6 +40,7 @@ project/
 └── README.md # Project documentation
 
 
+
 ---
 
 ##  Technologies Used
@@ -113,7 +114,12 @@ streamlit run dashboard/app.py
 Overview (KPIs + Charts)
 Detailed Report
 Scan History
-Email Alerts
+Email Alerts!
+
+![dashboard img](https://github.com/user-attachments/assets/b9b2f4b7-567d-4722-969f-cefa0dd8d264)
+
+
+
 
 👉 Note:
 
@@ -147,3 +153,5 @@ Advanced reporting dashboard
 This project demonstrates a complete cybersecurity workflow by integrating scanning, analysis, visualization, and alerting into a single platform.
 
 It provides actionable insights and helps in understanding network vulnerabilities effectively.
+
+
